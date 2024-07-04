@@ -5,3 +5,32 @@
 #heading-heighlight{
     color: chocolate;
 }
+.top-section{
+
+    height: 520px;
+    background-image: url("images/banner-top.jpeg");
+}
+.half-weidh{
+    width: 40%;
+    margin-left: 4%;
+    padding-left: 3%;
+    float: left;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.half-weidh img{
+    width: 90%;
+    height: 100%;
+}
+.button {
+    border: 1px solid chocolate ;
+    border-radius: 5px;
+    padding: 3px 10px;
+    background-color: chocolate;
+    color: rgb(252, 252, 252);
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+  }
